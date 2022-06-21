@@ -15,4 +15,3 @@ for _ in range(it):
             print(str(flr)+str(ho+1))
         else:
             print(str(flr)+"0"+str(ho+1))
-        
